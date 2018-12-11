@@ -1,0 +1,6 @@
+{
+  "name": "Manifest",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Manifest.js"
+}
